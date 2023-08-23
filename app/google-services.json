@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376288707006",
+    "project_id": "examen-final-5f0a2",
+    "storage_bucket": "examen-final-5f0a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376288707006:android:3cf892022ecb19a38879ef",
+        "android_client_info": {
+          "package_name": "com.tucto.ec_final_lisbeth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376288707006-pg2e4fem0hdn4v6f5eaoaj7s2fiuqa0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tucto.ec_final_lisbeth",
+            "certificate_hash": "efdb1289a8c3fb7c479a933ed64425895442cea2"
+          }
+        },
+        {
+          "client_id": "376288707006-bfohh4avu2aclgvmfjqqk0v7lhhioui8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIgRGWFIdfD3rqnoSfC_9bTP4FGwwH9Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376288707006-14cg5i41aufi83r8n8iebd5cu4bh8oqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
